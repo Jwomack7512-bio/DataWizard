@@ -1,0 +1,20 @@
+/* changes the font of the tab box titles */
+.nav-tabs {
+  font-size: 14px;
+}
+
+/* dropdown buttons for inputs, axis options, downloads */
+.dropdown-toggle.btn-primary {
+
+}
+
+/*Increases teh size of the box titles*/
+.box-header h3.box-title {
+   /*font-weight: bold;*/
+   font-size: 14px;
+}
+
+/*Increase the size of all text inside boxes*/
+.box{
+	font-size: 14px;
+}
