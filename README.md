@@ -1,10 +1,11 @@
 # DataWizard
 R shiny application user perform plotting and statistical analysis. This tool includes plotting options for:
--scatterplot
--histogram
--boxplot
--violinplot
--barplot
+- scatterplot
+- histogram
+- boxplot
+- violinplot
+- barplot
+
 This tool provides a variety of statistical testing (and hows all the steps and relevant graphs) for ttest, wilcoxin, and chi-squared tests. Lastly, this tool allows the user to perform multiple linear regression, logistic regression, anova testing, and survival analysis.
 The application can be accessed online at https://jwomack7512.shinyapps.io/DataWizard/. 
 
